@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+.quatromm{
+ padding-left: 10px;
+width: 400px;
+}
+.centinoventa{
+    padding-right: 10px;
+    width: 300px;
+    margin-left: 5%;
+}
+.setenta{
+    padding-right: 30px;
+    width: 400px;
+    margin-left: 5%;
+}
+.serief{
+    width: 300px;
+    margin-left: 5%;
+}
+.comandin{
+    width: 400px;
+    margin-right: 10%;
+    padding-top: 4%;
+}
+.nivel2{
+    width: 400px;
+    padding-top: 4%;
+    margin-right: 20%;
+}
+.linha{
+    display: flex;
+    padding: 10px;
+}
+

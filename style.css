@@ -1,0 +1,46 @@
+.VICENTEGAY {
+display: flex;
+height: 300PX;
+justify-content: space-between;
+
+}
+body {
+    background-color: gray;
+}
+
+button{
+    height: 80PX;
+    width: 120px;
+    font-size: 30px;
+    background-color: grey;
+}
+.vicentegay{
+display: flex;
+justify-content: space-between;
+}
+
+.sec1 {
+    display: flex;
+}
+.fotos{
+    padding-left: 6%;
+
+}
+.imgr {
+
+    height: 250px;
+    width: 320px;
+   
+}
+.barra{
+    display: flex;
+}
+.motul{
+   text-decoration: none;
+}
+.escope{
+    margin-left: 41%;
+}
+.kit{
+   margin-left: 40%;
+}
